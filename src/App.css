@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.Header{
+  width: 100%;
+  height: 100px;
+  background-color: blueviolet;
+  text-align: center;
+  font-size: 30px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
